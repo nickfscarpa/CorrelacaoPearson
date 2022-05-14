@@ -1,7 +1,7 @@
 # Correlação linear de Pearson
 Algoritmo para calculo da correlação linear de Pearson.
 
-## License
+## Licença
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
